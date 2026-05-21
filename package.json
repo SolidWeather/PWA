@@ -1,0 +1,17 @@
+{
+    "name": "@solidweather/pwa",
+    "private": true,
+    "homepage": "https://github.com/SolidWeather/PWA#readme",
+    "bugs": {
+        "url": "https://github.com/SolidWeather/PWA/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SolidWeather/PWA.git"
+    },
+    "license": "BSD-3-Clause",
+    "author": "Axel H. Karlsson",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
