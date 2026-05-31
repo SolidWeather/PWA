@@ -1,0 +1,22 @@
+@mixin surface
+    font-size: 1rem
+    padding: 10px
+
+    background-color: var(--surface-colour)
+    color: var(--fg)
+
+    border: 1px solid var(--border-colour)
+    border-radius: 4px
+
+    @media (hover: hover)
+        &:hover
+            filter: brightness(95%)
+
+    &:active
+        filter: brightness(90%)
+
+    -webkit-appearance: none
+    appearance: none
+
+    -webkit-user-select: none
+    user-select: none

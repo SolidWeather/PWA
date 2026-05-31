@@ -143,3 +143,5 @@ vite.config.ts.timestamp-*
 .vite/
 
 .idea
+!.idea/codeStyles
+!.idea/copyright
